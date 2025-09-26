@@ -12,10 +12,6 @@ The module is a single-file Python package. Copy the
 `svg_annotation_transfer` folder into your project or install it directly from
 the Git
 
-```bash
-python -m pip install .
-```
-
 ## Command-line usage
 
 You can invoke the tool directly with Python:
